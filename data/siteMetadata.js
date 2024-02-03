@@ -1,22 +1,22 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Chimpavision',
+  author: 'Alireza Sharifpour',
+  headerTitle: 'Chimpavision Blog',
+  description: 'Exploring AR, VR, Technology, and Philosophy for the Future',
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.png',
+  theme: 'system', // You can change the theme to 'dark' or 'system' if you prefer
+  siteUrl: 'https://www.chimpavision.com',
+  siteRepo: 'https://github.com/alireza-sharifpour/chimpavision-website',
+  siteLogo: '/static/images/logo.png', // Upload your site logo and update the path
+  socialBanner: '/static/images/twitter-card.png', // Update with your social banner image
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  email: 'alireza7612@gmail.com',
+  github: 'https://github.com/alireza-sharifpour',
+  twitter: 'https://twitter.com/alireza7612',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/alireza-sharifpour/',
   threads: 'https://www.threads.net',
   instagram: 'https://www.instagram.com',
   locale: 'en-US',
