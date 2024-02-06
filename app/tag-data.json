@@ -1,1 +1,8 @@
-{ "augmented-reality": 1, "virtual-reality": 1, "extended-reality": 1, "future-technologies": 1 }
+{
+  "augmented-reality": 2,
+  "virtual-reality": 2,
+  "extended-reality": 2,
+  "future-technologies": 2,
+  "fashion": 1,
+  "apple-vision-pro": 1
+}
