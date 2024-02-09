@@ -1,1 +1,13 @@
-{"augmented-reality":2,"virtual-reality":2,"extended-reality":2,"future-technologies":2,"fashion":1,"apple-vision-pro":1}
+{
+  "augmented-reality": 3,
+  "virtual-reality": 2,
+  "extended-reality": 2,
+  "future-technologies": 2,
+  "fashion": 1,
+  "apple-vision-pro": 2,
+  "digital-twins": 1,
+  "spatial-computing": 1,
+  "healthcare": 1,
+  "manufacturing": 1,
+  "communication": 1
+}
