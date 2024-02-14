@@ -1,13 +1,15 @@
 {
-  "augmented-reality": 3,
-  "virtual-reality": 2,
-  "extended-reality": 2,
-  "future-technologies": 2,
-  "fashion": 1,
-  "apple-vision-pro": 2,
+  "augmented-reality": 4,
+  "virtual-reality": 3,
+  "extended-reality": 3,
+  "pixel-codec-avatars": 1,
+  "meta": 1,
   "digital-twins": 1,
   "spatial-computing": 1,
+  "apple-vision-pro": 2,
   "healthcare": 1,
   "manufacturing": 1,
-  "communication": 1
+  "communication": 1,
+  "future-technologies": 2,
+  "fashion": 1
 }
