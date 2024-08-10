@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'ChimpaVision',
   author: 'Alireza Sharifpour',
   headerTitle: 'ChimpaVision Blog',
-  description: 'Exploring AR, VR, Technology, and Philosophy for the Future',
+  description: `Exploring AI, AR, VR, and Future Tech: Shaping Tomorrow's World`,
   language: 'en-us',
   theme: 'system', // You can change the theme to 'dark' or 'system' if you prefer
   siteUrl: 'https://www.chimpavision.com',
