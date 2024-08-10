@@ -15,7 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/alireza-sharifpour',
   twitter: 'https://twitter.com/alireza7612',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  youtube: 'https://www.youtube.com/@ChimpaVision?sub_confirmation=1',
   linkedin: 'https://www.linkedin.com/in/alireza-sharifpour/',
   threads: 'https://www.threads.net',
   instagram: 'https://www.instagram.com',
