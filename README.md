@@ -20,6 +20,7 @@ This site is built using the [Tailwind Next.js Starter Blog](https://github.com/
 
 ## Connect with Us
 
+- [Youtube](https://www.youtube.com/@ChimpaVision?sub_confirmation=1)
 - [GitHub](https://github.com/alireza-sharifpour)
 - [LinkedIn](https://www.linkedin.com/in/alireza-sharifpour/)
 - [Twitter](https://twitter.com/alireza7612)
