@@ -1,1 +1,24 @@
-{"augmented-reality":7,"virtual-reality":6,"extended-reality":5,"future-technologies":3,"fashion":1,"apple-vision-pro":2,"digital-twins":1,"spatial-computing":2,"healthcare":1,"manufacturing":1,"communication":1,"a-frame":1,"web-development":1,"developer-tools":1,"artificial-intelligence":1,"meta":3,"social-media":1,"digital-twin":1,"ai-studio":1,"scenescript":1,"pixel-codec-avatars":1,"webxr":1}
+{
+  "artificial-intelligence": 1,
+  "meta": 3,
+  "social-media": 1,
+  "digital-twin": 1,
+  "ai-studio": 1,
+  "augmented-reality": 7,
+  "scenescript": 1,
+  "spatial-computing": 2,
+  "virtual-reality": 6,
+  "future-technologies": 3,
+  "a-frame": 1,
+  "web-development": 1,
+  "extended-reality": 5,
+  "developer-tools": 1,
+  "webxr": 1,
+  "pixel-codec-avatars": 1,
+  "digital-twins": 1,
+  "apple-vision-pro": 2,
+  "healthcare": 1,
+  "manufacturing": 1,
+  "communication": 1,
+  "fashion": 1
+}
