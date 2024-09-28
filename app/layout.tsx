@@ -10,7 +10,6 @@ import Footer from '@/components/Footer'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
 import { Metadata } from 'next'
-import * as gtag from '../app/lib/gtag' // Updated import path
 import { Analytics, AnalyticsConfig } from 'pliny/analytics'
 import Script from 'next/script'
 
