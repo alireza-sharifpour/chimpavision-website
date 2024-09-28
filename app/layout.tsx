@@ -10,7 +10,7 @@ import Footer from '@/components/Footer'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
 import { Metadata } from 'next'
-import Script from 'next/script'
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
@@ -67,21 +67,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       className={`${space_grotesk.variable} scroll-smooth`}
       suppressHydrationWarning
     >
-      <head>
-        {/* Google Analytics Script for Verification */}
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-LWZ3J17P64"
-          strategy="afterInteractive"
-        />
-        <Script id="ga-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-LWZ3J17P64');
-          `}
-        </Script>
-      </head>
       <link
         rel="apple-touch-icon"
         sizes="76x76"
@@ -123,6 +108,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </SectionContainer>
         </ThemeProviders>
       </body>
+      <GoogleAnalytics gaId="G-LWZ3J17P64" />
     </html>
   )
 }

@@ -46,6 +46,7 @@
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
+    "@next/third-parties": "^14.2.13",
     "@svgr/webpack": "^8.0.1",
     "@types/mdx": "^2.0.12",
     "@types/react": "^18.2.73",
